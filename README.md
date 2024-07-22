@@ -29,7 +29,7 @@
 <a href="https://dribbble.com/parasbansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="parasbansal" height="30" width="40" /></a>
 <a href="https://hashnode.com/@parasbansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@parasbansal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/parasbansal10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="parasbansal10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@parasbansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@parasbansal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/parasbansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="parasbansal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/parasbansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parasbansal" height="30" width="40" /></a>
 </p>
 
