@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasbansal&label=Profile%20views&color=0e75b6&style=flat" alt="parasbansal" /> </p>
 
-- 🔭 I’m currently working on [Rippey](https://rippey.ai/)
+- 🔭 I’m currently working on Multiple projects in R Systems.
 
 - 🌱 I’m currently learning **Python and Machine Leanrning**
 
