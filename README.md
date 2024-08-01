@@ -92,8 +92,20 @@
 ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
----
-
 <br />
 
-[![](https://visitcount.itsvg.in/api?id=parasbansal&icon=5&color=9)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=parasbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=parasbansal&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parasbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=parasbansal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=parasbansal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
