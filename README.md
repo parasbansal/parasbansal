@@ -96,6 +96,8 @@
 ![Jira](https://img.shields.io/badge/JIRA-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github-copilot&logoColor=white)
 
 <br />
 
