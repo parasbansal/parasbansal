@@ -8,11 +8,11 @@
 
 ## 💫 About Me
 
-🔭 I’m currently working on multiple projects in R Systems.<br>
-👯 I’m looking to collaborate on **JS based project** (Preferably react)<br>
-🌱 I’m currently learning **System Architecture**<br>
-💬 Ask me about **Frontend, Backend and Mobile application development**<br>
-⚡ Fun fact **I create games in free-time**
+- 🔭 I’m currently working in R Systems as Senior Project Leader.
+- 👯 I’m looking to collaborate on **JS based project** (Preferably react)
+- 🌱 I’m currently learning **System Architecture**
+- 💬 Ask me about **Frontend, Backend and Mobile application development**
+- ⚡ Fun fact **I create games in free-time**
 
 ### 🌐 Socials
 
