@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Paras Bansal</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<center>
 
-## 💫 About Me:
+# Hi 👋, I'm Paras Bansal
+
+### A passionate fullstack developer from India
+
+</center>
+
+## 💫 About Me
 
 🔭 I’m currently working on multiple projects in R Systems.<br>
 👯 I’m looking to collaborate on **JS based project** (Preferably react)<br>
@@ -9,7 +14,7 @@
 💬 Ask me about **Frontend, Backend and Mobile application development**<br>
 ⚡ Fun fact **I create games in free-time**
 
-### 🌐 Socials:
+### 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/parasbansal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paras-bansal)
@@ -25,7 +30,7 @@
 
 ## 💻 Tech Stack:
 
-### Languages:
+### Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -37,7 +42,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Cloud:
+### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
@@ -46,7 +51,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
-### Frontend:
+### Frontend
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
@@ -58,32 +63,32 @@
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 
-### Desktop Application:
+### Desktop Application
 
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
 
-### Mobile Application:
+### Mobile Application
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Capacitor](https://img.shields.io/badge/Capacitor-3880FF?style=flat&logo=capacitor&logoColor=white)
 
-### Backend:
+### Backend
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
 
-### Database:
+### Database
 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-### Tools:
+### Tools
 
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
@@ -94,18 +99,19 @@
 
 <br />
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=parasbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=parasbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parasbansal&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parasbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏆 GitHub Trophies
+<!-- ### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=parasbansal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=parasbansal&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=parasbansal&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
