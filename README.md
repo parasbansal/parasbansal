@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Paras Bansal
 
-### A passionate fullstack developer from India
+### A passionate full stack developer from India
 
 </center>
 
