@@ -16,7 +16,6 @@
 
 ### 🌐 Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/parasbansal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paras-bansal)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3557386)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@parasbansal10)
@@ -27,6 +26,8 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-2563eb?logo=hashnode&logoColor=white)](https://hashnode.com/@parasbansal)
 [![HackerRank](https://img.shields.io/badge/HackerRank-5792ee?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/parasbansal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/parasbansal/)
+
+[![PortfolioSite](https://img.shields.io/badge/Portfolio%20Site-181717.svg)](https://parasbansal.vercel.app)
 
 ## 💻 Tech Stack:
 
