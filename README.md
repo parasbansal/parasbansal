@@ -27,7 +27,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-5792ee?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/parasbansal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/parasbansal/)
 
-[![PortfolioSite](https://img.shields.io/badge/Portfolio%20Site-181717.svg)](https://parasbansal.vercel.app)
+[![PortfolioSite](https://img.shields.io/badge/Portfolio%20Site-181717.svg)](https://paras.pro)
 
 ## 💻 Tech Stack:
 
