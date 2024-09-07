@@ -18,13 +18,13 @@ Checkout my portfolio at [paras.pro](https://paras.pro)
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paras-bansal)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3557386)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@parasbansal10)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/parasbansal)
-[![Dev Community](https://img.shields.io/badge/Dev%20Community-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/parasbansal)
-[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-161616?logo=codesandbox&logoColor=white)](https://codesandbox.io/u/parasbansal)
-[![Dribbble](https://img.shields.io/badge/Dribbble-E82B6D?logo=dribbble&logoColor=white)](https://dribbble.com/parasbansal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paras-bansal)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3557386)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@parasbansal10)
+[![Codepen](https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/parasbansal)
+[![Dev Community](https://img.shields.io/badge/Dev%20Community-0A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/parasbansal)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-161616.svg?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/parasbansal)
+[![Dribbble](https://img.shields.io/badge/Dribbble-E82B6D.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/parasbansal)
 
 <!-- [![Hashnode](https://img.shields.io/badge/Hashnode-2563eb?logo=hashnode&logoColor=white)](https://hashnode.com/@parasbansal)
 [![HackerRank](https://img.shields.io/badge/HackerRank-5792ee?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/parasbansal)
