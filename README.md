@@ -12,7 +12,7 @@ Checkout my portfolio at [paras.pro](https://paras.pro)
 
 - 🔭 I’m currently working in R Systems as Senior Project Leader.
 - 👯 I’m looking to collaborate on **JS based project** (Preferably react)
-- 🌱 I’m currently learning **T3 Stack**
+- 🌱 I’m currently learning **tRPC**
 - 💬 Ask me about **Frontend, Backend and Mobile application development**
 - ⚡ Fun fact **I create games in free-time**
 
