@@ -66,6 +66,7 @@ Checkout my portfolio at [paras.pro](https://paras.pro)
 
 ### Testing
 
+![Vitest](https://img.shields.io/badge/Vitest-%23646CFF.svg?style=for-the-badge&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
