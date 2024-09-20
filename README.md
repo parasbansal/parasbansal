@@ -12,7 +12,6 @@ Checkout my portfolio at [paras.pro](https://paras.pro)
 
 - 🔭 I’m currently working in R Systems as Senior Project Leader.
 - 👯 I’m looking to collaborate on **JS based project** (Preferably react)
-- 🌱 I’m currently learning **T3 Stack**
 - 💬 Ask me about **Frontend, Backend and Mobile application development**
 - ⚡ Fun fact **I create games in free-time**
 
@@ -114,11 +113,11 @@ Checkout my portfolio at [paras.pro](https://paras.pro)
 
 <br />
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=parasbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=parasbansal&theme=dark&hide_border=true)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=parasbansal&theme=dark&hide_border=true)<br/>  -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parasbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
