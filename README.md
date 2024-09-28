@@ -113,13 +113,13 @@ Checkout my portfolio at [paras.pro](https://paras.pro)
 
 <br />
 
-<!-- ## 📊 GitHub Stats -->
+## 📊 GitHub Stats
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=parasbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=parasbansal&theme=dark&hide_border=true)<br/>  -->
+![GitHub Streak](https://streak-stats.demolab.com?user=parasbansal&theme=tokyonight&hide_border=true)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parasbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parasbansal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- ### 🏆 GitHub Trophies
 
