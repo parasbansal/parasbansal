@@ -10,7 +10,7 @@ Checkout my portfolio at [paras.pro](https://paras.pro)
 
 ## 💫 About Me
 
-- 🔭 I’m currently working in R Systems as Senior Project Leader.
+- 🔭 I’m currently working at Encora as Senior Technical Lead.
 - 👯 I’m looking to collaborate on **JS based project** (Preferably react)
 - 💬 Ask me about **Frontend, Backend and Mobile application development**
 - ⚡ Fun fact **I create games in free-time**
