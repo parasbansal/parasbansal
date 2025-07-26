@@ -10,7 +10,7 @@ Checkout my portfolio at [paras.pro](https://paras.pro)
 
 ## 💫 About Me
 
-- 🔭 I’m currently working at Encora as Senior Technical Lead.
+- 🔭 I’m currently working at GoDaddy as Senior SD3.
 - 👯 I’m looking to collaborate on **JS based project** (Preferably react)
 - 💬 Ask me about **Frontend, Backend and Mobile application development**
 - ⚡ Fun fact **I create games in free-time**
